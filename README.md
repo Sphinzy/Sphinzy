@@ -13,8 +13,8 @@ I have experience working with both **frontend and backend technologies**, build
 * 🎓 **Bachelor of Computer Studies — Year III**
 * 🏫 **Norton University, Phnom Penh**
 * 💻 Focused on **Web & Full-Stack Development**
-* 🌱 Currently improving my skills in **Vue.js, Node.js, REST APIs & MySQL**
-* 🔧 Interested in **software development, backend systems & UI/UX**
+* 🌱 Improving my skills in **Vue.js, Node.js, REST APIs & MySQL**
+* 🔧 Interested in **Web Development & Backend Systems**
 * 📚 Always learning and experimenting with new technologies
 * 🇰🇭 Based in **Phnom Penh, Cambodia**
 * 🎯 Goal: Become a professional **Full-Stack Developer**
@@ -28,8 +28,6 @@ I have experience working with both **frontend and backend technologies**, build
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,react" />
 </p>
-
-**Technologies I work with:**
 
 * HTML5
 * CSS3
@@ -45,16 +43,11 @@ I have experience working with both **frontend and backend technologies**, build
 ### ⚙️ Backend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,java,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
-
-**Technologies I work with:**
 
 * Node.js
 * Express.js
-* Python
-* Java
-* PHP
 * REST API
 * Authentication & Authorization
 * CRUD Applications
@@ -70,23 +63,9 @@ I have experience working with both **frontend and backend technologies**, build
 * MySQL
 * Database Design
 * SQL
-* Relationships
+* Database Relationships
 * CRUD Operations
 * API ↔ Database Integration
-
----
-
-### 🎨 UI / UX & Design
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
-</p>
-
-* Figma
-* UI/UX Design
-* Adobe Photoshop
-* Adobe Illustrator
-* Responsive Interface Design
 
 ---
 
@@ -106,60 +85,6 @@ I have experience working with both **frontend and backend technologies**, build
 
 ---
 
-# 📌 Featured Projects
-
-### 🚀 SAHAKKA — Project Management System
-
-A full-stack project management platform designed to help teams manage workspaces, teams, tasks, documents, submissions, and feedback.
-
-**Main Features**
-
-* 👥 User & Role Management
-* 🏢 Workspace Management
-* 👨‍💻 Team Management
-* 📋 Task Management
-* 📄 Document Management
-* 📤 Submission System
-* 💬 Feedback System
-* 📊 Dashboard & Analytics
-* 🔐 Authentication & Authorization
-
-**Tech Stack**
-
-`Vue.js` `JavaScript` `Node.js` `MySQL` `REST API`
-
----
-
-### 🌐 The Warrior Team
-
-A modern web project focused on creating a responsive and user-friendly website experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Bootstrap`
-
----
-
-### 🛒 SYS Topup
-
-A web-based top-up platform interface designed with a focus on usability, responsive design, and a clean user experience.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Vue.js`
-
----
-
-### 🛍️ Fake Store UI
-
-A frontend e-commerce interface demonstrating product listing, UI components, responsive layouts, and API integration concepts.
-
-**Tech Stack**
-
-`Vue.js` `JavaScript` `CSS` `REST API`
-
----
-
 # 🔭 Currently Working On
 
 * 🌐 Building full-stack web applications
@@ -168,78 +93,7 @@ A frontend e-commerce interface demonstrating product listing, UI components, re
 * 🗄️ Improving MySQL database design
 * 🔐 Learning better authentication and application security
 * 📊 Building dashboards and analytics
-* 📱 Exploring modern responsive UI/UX
-
----
-
-# 📚 Currently Learning
-
-```text
-Vue.js
-   ↓
-Node.js + Express
-   ↓
-REST API
-   ↓
-MySQL
-   ↓
-Authentication & Security
-   ↓
-Full-Stack Applications
-```
-
-I'm continuously improving my understanding of **software architecture, clean code, API development, database design, and application security**.
-
----
-
-# 🎯 My Development Goals
-
-```text
-          ┌─────────────────────┐
-          │   Full-Stack Dev    │
-          └──────────┬──────────┘
-                     │
-       ┌─────────────┼─────────────┐
-       ↓             ↓             ↓
-   Frontend       Backend       Database
-       │             │             │
-    Vue.js        Node.js        MySQL
-    JavaScript    Express        SQL
-    Tailwind      REST API       Design
-       │             │             │
-       └─────────────┼─────────────┘
-                     ↓
-              Production Apps
-```
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+* 📱 Exploring modern responsive web development
 
 ---
 
@@ -251,10 +105,27 @@ I'm continuously improving my understanding of **software architecture, clean co
 📊 Dashboard & Analytics
 🗄️ Database Systems
 🔐 Authentication Systems
-🎨 Modern UI/UX
 📱 Responsive Websites
 🤖 Technology Projects
 ```
+
+---
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Sphinzy&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sphinzy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sphinzy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><br/>
+![](https://komarev.com/ghpvc/?username=SphinXander&color=blue&for-the-badge)
 
 ---
 
@@ -288,5 +159,5 @@ I'm always interested in connecting with other developers, collaborating on proj
 </p>
 
 <p align="center">
-  ⭐ If you find my projects interesting, feel free to explore my repositories!
+  ⭐ Thanks for visiting my profile!
 </p>
