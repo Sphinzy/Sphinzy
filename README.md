@@ -119,7 +119,7 @@ I'm always interested in connecting with other developers, collaborating on proj
 </p>
 
 📧 **Email:** [chumsatsya2703@gmail.com](mailto:chumsatsya2703@gmail.com)
-📧 **Portfolio:**([ <a href="https://satsya.pages.dev" target="_blank">)](https://satsya.pages.dev)
+📧 **Portfolio:**[https://satsya.pages.dev](https://satsya.pages.dev)
 📍 **Location:** Phnom Penh, Cambodia
 
 ---
