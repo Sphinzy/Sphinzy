@@ -104,20 +104,12 @@ I have experience working with both **frontend and backend technologies**, build
 🤖 Technology Projects
 ```
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sphinzy&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sphinzy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 # 🤝 Let's Connect
 
 I'm always interested in connecting with other developers, collaborating on projects, and learning from the developer community.
 
 <p align="left">
-  <a href="[https://yourportfolio.com](https://satsya.pages.dev)">
+  <a href="[(https://satsya.pages.dev)](https://satsya.pages.dev)">
     <img src="https://skillicons.dev/icons?i=web" width="40"/>
   </a>
   &nbsp;
@@ -126,7 +118,7 @@ I'm always interested in connecting with other developers, collaborating on proj
   </a>
 </p>
 
-📧 **Email:** [chumsatsya2703il@gmail.com](mailto:chumsatsya2703il@gmail.com)
+📧 **Email:** [chumsatsya2703@gmail.com](mailto:chumsatsya2703@gmail.com)
 📍 **Location:** Phnom Penh, Cambodia
 
 ---
@@ -136,10 +128,6 @@ I'm always interested in connecting with other developers, collaborating on proj
 > "The best way to learn programming is to build something."
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 <p align="center">
   ⭐ Thanks for visiting my profile!
