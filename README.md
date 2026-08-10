@@ -1,26 +1,138 @@
-### Hi there 👋
+<img src="https://via.placeholder.com/150" width="150" style="border-radius:50%"/>
 
-- 🔭 I’m currently working on building modern websites and Python applications.
-- 🌱 I’m currently learning Vue.js, Tailwind CSS, and improving my Python skills.
-- 👯 I’m looking to collaborate on web development and small software projects.
-- 🤔 I’m looking for help with advanced JavaScript and backend frameworks.
-- 💬 Ask me about HTML, CSS, JavaScript, Python, and UI design.
-- 📫 How to reach me: (Your email here)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new tech and building projects for fun.
-  
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sphinzy&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi there, I'm Tang Chean You
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sphinzy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+🌐 **Web Developer | Web Designer | Architecture**
+🚀 Passionate about building modern and responsive web applications and creative designs.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sphinzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><br/>
-![](https://komarev.com/ghpvc/?username=SphinXander&color=blue&for-the-badge)
+## 💻 FRONTEND
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" /><br>HTML
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" /><br>CSS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" /><br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" /><br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" /><br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" /><br>Angular
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vue" width="48" height="48" /><br>Vue
+</td>
+</tr>
+</table>
+
+## 🖥️ BACKEND &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🗄️ DATABASE
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" /><br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" /><br>Express
+</td>
+<td width="40"></td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" /><br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" /><br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" /><br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=php" width="48" height="48" /><br>Php
+</td>
+</tr>
+</table>
+
+## 🎨 WEB DESIGNER
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" /><br>Photoshop
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=illustrator" width="48" height="48" /><br>Illustrator
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=xd" width="48" height="48" /><br>Adobe XD
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" /><br>Ux and Ui
+</td>
+</tr>
+</table>
+
+## 🏛️ ARCHITECTURE
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/autocad.png" width="48" height="48" /><br>AutoCAD
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/fluency/48/000000/blueprint.png" width="48" height="48" /><br>AutoDesk Revit
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/sketchup.png" width="48" height="48" /><br>Sketch up
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/3ds-max.png" width="48" height="48" /><br>3DS Max
+</td>
+</tr>
+</table>
+
+## 🧱 TOOL 3D DESIGN
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=blender" width="48" height="48" /><br>Blender
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/3ds-max.png" width="48" height="48" /><br>AutoDesk 3D Max
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cinema4d" width="48" height="48" /><br>Cinema 4D
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/ios-filled/50/rhinoceros.png" width="48" height="48" /><br>Rhino 3D
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 CONTACT
+- ✉️ tangcheanyou@gmail.com
+- 📞 +855 12 345 678
+- 📍 Phnom Penh, Cambodia
+- 🌐 tangcheanyou.dev
+- 💼 [linkedin.com/in/tangcheanyou](https://linkedin.com/in/tangcheanyou)
+- 🐙 [github.com/tangcheanyou](https://github.com/tangcheanyou)
+
+## 🔗 CONNECT
+<p align="left">
+  <a href="https://facebook.com/tangcheanyou" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="32" height="32"/></a>&nbsp;
+  <a href="https://instagram.com/tangcheanyou" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32"/></a>&nbsp;
+  <a href="https://twitter.com/tangcheanyou" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32"/></a>&nbsp;
+  <a href="https://linkedin.com/in/tangcheanyou" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32"/></a>&nbsp;
+  <a href="https://github.com/tangcheanyou" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="32" height="32"/></a>
+</p>
