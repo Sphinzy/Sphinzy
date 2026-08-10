@@ -26,7 +26,7 @@ I have experience working with both **frontend and backend technologies**, build
 ### 🌐 Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue" />
 </p>
 
 * HTML5
@@ -70,7 +70,7 @@ I have experience working with both **frontend and backend technologies**, build
 ### 🛠️ Tools & Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 * Git & GitHub
@@ -105,20 +105,24 @@ I have experience working with both **frontend and backend technologies**, build
 ```
 
 ---
+# 📊 GitHub Stats
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sphinzy&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sphinzy&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sphinzy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sphinzy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --><br/>
-![](https://komarev.com/ghpvc/?username=SphinXander&color=blue&for-the-badge)
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
 
 ---
 
