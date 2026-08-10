@@ -110,7 +110,7 @@ I'm always interested in connecting with other developers, collaborating on proj
 
 <p align="left">
   <a href="https://satsya.pages.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=web" width="40"/>
+    <img src="https://skillicons.dev/icons?i=devto" width="40"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/chum-satsya-5b04a5421" target="_blank">
